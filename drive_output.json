@@ -1,0 +1,126 @@
+{
+  "connector": "Google Drive",
+  "status": "success",
+  "files": [
+    {
+      "mimeType": "application/pdf",
+      "id": "1MUhnb2xrUIGFrFLpjw5okVM4pfEq4RPu",
+      "name": "assignment - 2 ( data structure )",
+      "modifiedTime": "2026-10-30T16:37:14.474Z"
+    },
+    {
+      "mimeType": "application/pdf",
+      "id": "1Lg4lQyvYmqYcTezxH7bAx5nY6bstIfrI",
+      "name": "data structure and algorithms ",
+      "modifiedTime": "2026-10-28T14:16:58.229Z"
+    },
+    {
+      "mimeType": "application/pdf",
+      "id": "1JYGyhG4ViBMBUOLlZuXKH-Otc9zVEMPg",
+      "name": "cloud computing Assignment ",
+      "modifiedTime": "2026-10-23T11:14:34.422Z"
+    },
+    {
+      "mimeType": "application/pdf",
+      "id": "1JIpQfL0ys45nFzNXe0cFVR8UChZc6rp6",
+      "name": "Document from Trunali Bangar🦋",
+      "modifiedTime": "2026-10-23T08:35:56.079Z"
+    },
+    {
+      "mimeType": "application/pdf",
+      "id": "1JFB6tSisWTyd1ez-mGuHjRNJL-X1hhu7",
+      "name": "Document from Trunali Bangar🦋",
+      "modifiedTime": "2026-10-23T08:35:31.567Z"
+    },
+    {
+      "mimeType": "application/json",
+      "id": "1d0i6dbXKnkBJZSoO5qMfFyGY7xo_ToKn",
+      "name": "product-catalog.json",
+      "modifiedTime": "2026-10-08T04:48:00.000Z"
+    },
+    {
+      "mimeType": "application/pdf",
+      "id": "1E4nFGsNCrG5pfsSy3kiLK11NOs5jw6nk",
+      "name": "Cloud computing assignment.pdf",
+      "modifiedTime": "2026-10-01T16:33:32.790Z"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.shortcut",
+      "id": "1ebENhdKGwZUmcm596IhtszWcd_zAVc0noVm6lTHihhgTPFM0ma0gEC-AtWKWM_PEawJARrs",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:51:29.991Z"
+    },
+    {
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "id": "1WyIAhHOkrAlyep9-XTshItZ7CPn7D6x7",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:51:26.991Z"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.shortcut",
+      "id": "1HhdZogNaY4emHE2-nAAW9O48OJj65L2e5066xFJrDnIYVW03SWnRqork8DF4BdX6D59I1cY",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:48:52.940Z"
+    },
+    {
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "id": "1bb3P4msIJkHgMp5594zYLXk-w2e5kNko",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:48:50.049Z"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.shortcut",
+      "id": "1d9qRXRaeIhZfpC4jqZzegQQo2sUonA6OIpA4SGNxQ3OMe4dfayZVhlpl9n4FokVtxcXueoA",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:48:43.859Z"
+    },
+    {
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "id": "1GAilMd_NSrevIS56FyWhUSVNIDG31OV5",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:48:40.798Z"
+    },
+    {
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "id": "1D3W6uE3aZIRba3ikJmKSJwJVL3sQhgzS",
+      "name": "Employees dashboard.Excel.xlsx",
+      "modifiedTime": "2026-10-01T09:46:49.475Z"
+    },
+    {
+      "mimeType": "text/csv",
+      "id": "1_y2xxjJE7MKxLQ10HaFKjeTW7q712Ycs",
+      "name": "Sales_transactions_2022_2025.csv",
+      "modifiedTime": "2026-09-29T06:31:48.000Z"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.folder",
+      "id": "1AGmYH-qS76n512yrhdF-G_oFDLSQvAXvZNfURd_e9bn6BY3OYmuThu3pPJKRfMQJphUpPNLn",
+      "name": "Excel_0626",
+      "modifiedTime": "2026-09-23T05:30:14.513Z"
+    },
+    {
+      "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "id": "1q6bysAbFLkpdGkqVLaEZKoMUM5u7v2Dr",
+      "name": "Employee_Department (1).xlsx",
+      "modifiedTime": "2026-09-23T05:27:30.000Z"
+    },
+    {
+      "mimeType": "text/csv",
+      "id": "1wDh9PqJL6I3Lqg75BUwmbLUJlvsiVX_b",
+      "name": "customer_master.csv",
+      "modifiedTime": "2026-08-25T02:30:58.000Z"
+    },
+    {
+      "mimeType": "application/vnd.google-apps.document",
+      "id": "1q51BGhuG_QbyMJlUoul2dvZm15PSY6jMitElKDwnh5o",
+      "name": "Websites",
+      "modifiedTime": "2026-08-22T08:56:17.019Z"
+    },
+    {
+      "mimeType": "application/pdf",
+      "id": "1GB_EqK3qdQoBztrCGeDAYRgweStigHsV",
+      "name": "7a7acc15-1c74-418c-826c-56d3a4692658.pdf",
+      "modifiedTime": "2026-08-18T12:37:42.613Z"
+    }
+  ]
+}

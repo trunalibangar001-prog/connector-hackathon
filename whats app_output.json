@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender": "Mummy",
+      "message": "Tomorrow call the customer at 10 AM",
+      "timestamp": "2026-10-30 10:15"
+    },
+    {
+      "sender": "Mummy",
+      "message": "The sales report is ready",
+      "timestamp": "2026-10-30 14:20"
+    },
+    {
+      "sender": "Pappa",
+      "message": "Meeting is scheduled for Monday",
+      "timestamp": "2026-10-30 18:05"
+    }
+  ]
+}
